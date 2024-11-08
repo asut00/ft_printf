@@ -1,6 +1,5 @@
-# ft_printf
+# ft_printf 🖨️
 
-Welcome to **ft_printf**! 🖨️ 
 This project is a custom implementation of the C library function `printf`, built from scratch. It replicates much of the functionality of the original `printf` function while offering a deeper understanding of variadic functions and formatted output.
 
 ## Table of Contents
