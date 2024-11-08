@@ -32,7 +32,7 @@ To compile and integrate **ft_printf** into your project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ft_printf.git
+   git clone https://github.com/asut00/ft_printf.git
    cd ft_printf
    ```
 
